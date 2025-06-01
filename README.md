@@ -1,4 +1,4 @@
-# THREE.js Learning Repository
+## THREE.js Learning Repository
 
 Welcome to the **THREE.js Learning Repository**!  
 This repository contains all the code, notes, and experiments I’ve done while learning THREE.js — a powerful 3D JavaScript library used for creating stunning visuals and 3D web experiences.
@@ -57,6 +57,8 @@ npm install
 npm run dev
 Or use the Live Server extension in VS Code.
 ```
+
+
 
 ## 🌐 Resources
 Official Documentation
