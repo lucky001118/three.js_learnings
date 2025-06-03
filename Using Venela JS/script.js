@@ -51,4 +51,4 @@ function animate(){
     renderer.render(scene,camera);
     mesh.rotation.y = clock.getElapsedTime();  //animation done by rotation on the THREE js clock time. 
 }
-animate();
+animate();    //animate(); for() the animations becouse this is the function so we here calling the animation function.
