@@ -57,9 +57,6 @@ npm install
 npm run dev
 Or use the Live Server extension in VS Code.
 ```
-
-
-
 ## 🌐 Resources
 Official Documentation
 
@@ -70,3 +67,5 @@ Awesome THREE.js GitHub Repo
 ## ✍️ Author
 Lucky Manikpur
 Learning enthusiast | Web & Java Developer | Tech Explorer
+
+
